@@ -1,12 +1,6 @@
-/**
- * OOPS Banner App - UC7
- * Demonstrates encapsulation of character patterns using Inner Static Class.
- */
+
 public class InnerClass {
 
-    /**
-     * Inner static class to store character and its banner pattern.
-     */
     public static class CharacterPatternMap {
         private char character;
         private String[] pattern;
